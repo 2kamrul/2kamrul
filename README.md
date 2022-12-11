@@ -27,7 +27,7 @@
 
 
 
-[![Kamruls's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=2kamrul&theme=react&custom_title=Contribution%20Graph)](https://git.io/praveenscience)
+[![Kamruls's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=2kamrul&theme=react&custom_title=Contribution%20Graph)](https://git.io/praveenscience)
 
 
 ###### Where to find me
