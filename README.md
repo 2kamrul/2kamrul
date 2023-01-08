@@ -1,6 +1,6 @@
 # 👋 &nbsp; Hey! Nice to see you
 
-<p>Welcome to my page! </br> I'm Kamrul Islam, Fullstack developer from <img src="https://raw.githubusercontent.com/2kamrul/2kamrul/1a4006ccd8d579d519e75e6bc8265a4926a0b7e9/icons/others/flag_bd.png" width="13" /> <b>Bangladesh.</b></p>
+<p>Welcome to my page! </br> I'm Kamrul Islam, Fullstack developer from <img src="https://github.com/2kamrul/2kamrul/blob/main/icons/others/flag_bd.png?raw=true" width="13" /> <b>Bangladesh.</b></p>
  
 # Things I code with
 ###### Frontend
