@@ -10,7 +10,7 @@
 <img  src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="NodeJS" width="50" height="50"/> &nbsp; &nbsp;<img  src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/> &nbsp; &nbsp;<img  src="https://sequelize.org/img/logo.svg" alt="Sequelize" width="50" height="40"/> &nbsp; &nbsp;<img  src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="50" height="50"/> &nbsp; &nbsp;<img  src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySql" width="50" height="50"/> &nbsp; &nbsp;<img  src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="Mongodb" width="50" height="50"/> &nbsp; &nbsp;<img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" width="50" height="50"/> &nbsp; &nbsp;<img  src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" width="50" height="50"/> &nbsp; &nbsp; <img  src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="Javascript" width="50" height="50"/>
 
 ###### OTHERS 
-<img  src="https://raw.githubusercontent.com/2kamrul/2kamrul/main/icons/iis.png" alt="Microsoft IIS" width="50" height="50"/> &nbsp; &nbsp; <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"  width="50" height="50"/>
+<img  src="https://raw.githubusercontent.com/2kamrul/2kamrul/main/icons/others/iis.svg" alt="Microsoft IIS" width="50" height="50"/> &nbsp; &nbsp; <img  src="https://raw.githubusercontent.com/2kamrul/2kamrul/main/icons/others/github.svg" alt="Github"  width="50" height="50"/>
 
 <!-- <br/> -->
 
