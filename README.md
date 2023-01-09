@@ -10,15 +10,15 @@
 <img  src="https://raw.githubusercontent.com/2kamrul/2kamrul/898b238b051ae755df113a0aadd691c51a536bd8/icons/backend/nodejs_2.svg" alt="NodeJS" width="50" height="50"/> &nbsp; &nbsp;<img  src="https://raw.githubusercontent.com/2kamrul/2kamrul/09371ec507d34bd8f2f6c7be6f778e854e4c07c0/icons/backend/expressjs_long.svg" alt="ExpressJS" width="50" height="50"/> &nbsp; &nbsp;<img  src="https://raw.githubusercontent.com/2kamrul/2kamrul/09371ec507d34bd8f2f6c7be6f778e854e4c07c0/icons/backend/sequelize_with_title.svg" alt="Sequelize" width="60" height="50"/> &nbsp; &nbsp;<img  src="https://raw.githubusercontent.com/2kamrul/2kamrul/09371ec507d34bd8f2f6c7be6f778e854e4c07c0/icons/backend/sql_server_with_title.svg" alt="MSSQL" width="60" height="50"/> &nbsp; &nbsp;<img  src="https://raw.githubusercontent.com/2kamrul/2kamrul/09371ec507d34bd8f2f6c7be6f778e854e4c07c0/icons/backend/my_sql_transparent.svg" alt="MySql" width="60" height="50"/> &nbsp; &nbsp;<img  src="https://raw.githubusercontent.com/2kamrul/2kamrul/09371ec507d34bd8f2f6c7be6f778e854e4c07c0/icons/backend/mongodb_with_title.svg" alt="Mongodb" width="50" height="50"/> &nbsp; &nbsp;<img src="https://raw.githubusercontent.com/2kamrul/2kamrul/09371ec507d34bd8f2f6c7be6f778e854e4c07c0/icons/backend/firebase_with_title.svg" alt="Firebase" width="90" height="50"/> &nbsp; &nbsp;<img  src="https://raw.githubusercontent.com/2kamrul/2kamrul/09371ec507d34bd8f2f6c7be6f778e854e4c07c0/icons/backend/redis_with_title.svg" alt="Redis" width="50" height="50"/>
 
 ###### OTHERS 
-<table>
-<tr>
-<td valign="center" style="border: none;">
-<img  src="https://raw.githubusercontent.com/2kamrul/2kamrul/1a4006ccd8d579d519e75e6bc8265a4926a0b7e9/icons/others/iis.svg" alt="Microsoft IIS" width="70" height="70"/>
-</td>
-<td valign="center" style="border: none;">
-<img src="https://raw.githubusercontent.com/2kamrul/2kamrul/1a4006ccd8d579d519e75e6bc8265a4926a0b7e9/icons/others/github.svg" alt="Github" width="50" height="50"/>
-</td>
-</tr>
+<table width="100%"  style="border:0px solid white; width:100%;">
+    <tr style="border: 0px;">
+        <td valign="center" style="border: 0px;">
+            <img  src="https://raw.githubusercontent.com/2kamrul/2kamrul/1a4006ccd8d579d519e75e6bc8265a4926a0b7e9/icons/others/iis.svg" alt="Microsoft IIS" width="70" height="70"/>
+        </td>
+        <td valign="center" style="border: 0px;">
+            <img src="https://raw.githubusercontent.com/2kamrul/2kamrul/1a4006ccd8d579d519e75e6bc8265a4926a0b7e9/icons/others/github.svg" alt="Github" width="50" height="50"/>
+        </td>
+    </tr>
 </table>
 <img  src="https://raw.githubusercontent.com/2kamrul/2kamrul/1a4006ccd8d579d519e75e6bc8265a4926a0b7e9/icons/others/iis.svg" alt="Microsoft IIS" width="70" height="70"/> &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/2kamrul/2kamrul/1a4006ccd8d579d519e75e6bc8265a4926a0b7e9/icons/others/github.svg" alt="Github" width="50" height="50"/>
 
