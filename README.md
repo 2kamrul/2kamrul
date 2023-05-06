@@ -39,8 +39,10 @@
     </a>
     <a href="https://stackoverflow.com/users/20355867" target="_blank">
         <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-    </a>  
+    </a>
+  <a href="https://gitlab.com/2kamrul" target="_blank">
+         <img src=https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white alt=Gitlab style="margin-bottom: 5px;" />
+    </a>
 </div> 
-
 <br/>  
 <br/>  
