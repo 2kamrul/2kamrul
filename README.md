@@ -29,19 +29,19 @@
 ###### Where to find me
 <div align="center">
     <a href="https://linkedin.com/in/3kamrul" target="_blank">
-       <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+       <img src=https://img.shields.io/badge/linkedin-0072b1.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
     </a>
     <a href="https://www.facebook.com/3kamrul" target="_blank">
-        <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+        <img src=https://img.shields.io/badge/facebook-3b5998.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
     </a>
     <a href="https://github.com/2kamrul" target="_blank">
-       <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+       <img src=https://img.shields.io/badge/github-171515.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>
       <a href="https://gitlab.com/2kamrul" target="_blank">
-         <img src=https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white alt=Gitlab style="margin-bottom: 5px;" />
+         <img src=https://img.shields.io/badge/GitLab-FC6D27.svg?style=for-the-badge&logo=gitlab&logoColor=white alt=Gitlab style="margin-bottom: 5px;" />
     </a>
     <a href="https://stackoverflow.com/users/20355867" target="_blank">
-        <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+        <img src=https://img.shields.io/badge/stackoverflow-F48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
     </a>
 </div> 
 <br/>  
