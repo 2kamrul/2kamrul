@@ -1,7 +1,7 @@
 ## 👋 &nbsp; Hey! Nice to see you
 
 <p>Welcome to my page! </br> I'm Kamrul Islam, Fullstack developer from <img src="./icons/others/flag_bd.png" width="13" height="13" /> <b>Bangladesh.</b></p>
-<a href="https://2kamrul.github.io/" target="_blank">Portfolio</a>  
+<a href="https://2kamrul.gitlab.io/" target="_blank">Portfolio</a>  
  
 ## Things I code with
 ###### Frontend
