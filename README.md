@@ -2,9 +2,7 @@
 
 Welcome to my page! </br> I'm Kamrul Islam, Backend Engineer and DevOps enthusiast from <img src="./icons/others/flag_bd.png" width="13" height="13" /> <b>Bangladesh.</b>
 
-[//]: # (<a href="https://2kamrul.gitlab.io/" target="_blank">Portfolio</a>  )
- 
-[Portfolio](https://2kamrul.gitlab.io/)
+<a href="https://2kamrul.gitlab.io/" target="_blank">Portfolio</a>
 
 ## Things I code with
 
