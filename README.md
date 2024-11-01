@@ -1,13 +1,19 @@
 ## 👋 &nbsp; Hey! Nice to see you
 
-Welcome to my page! </br> I'm Kamrul Islam, Backend Engineer and DevOps enthusiast from <img src="./icons/others/flag_bd.png" width="13" height="13" /> <b>Bangladesh.</b>
+Welcome!
 
-<a href="https://2kamrul.gitlab.io/" target="_blank">Portfolio</a>
+I'm Kamrul Islam, Backend Engineer and DevOps enthusiast 
+
+[//]: # (from <img src="./icons/others/bd-flag-circular.svg" width="12" height="12" /> <b>Bangladesh.</b>)
+
+[//]: # (<a href="https://2kamrul.gitlab.io/" target="_blank">Portfolio</a>  )
+ 
+[Portfolio](https://2kamrul.gitlab.io/)
 
 ## Things I code with
 
 ### DevOps
-<img  src="./icons/devops/aws.svg" alt="Aws" width="70" height="53"/> &nbsp; &nbsp; 
+<img  src="./icons/devops/aws.svg" alt="Aws" width="70" height="53"/> &nbsp; &nbsp;
 <img src="./icons/devops/digitalocean.svg" alt="DigitalOcean" width="45" height="45"/> &nbsp; &nbsp;
 <img src="./icons/devops/kubernetes.svg" alt="Kubernetes" width="45" height="45"/> &nbsp; &nbsp;
 <img src="./icons/devops/docker.svg" alt="Docker" width="45" height="45"/> &nbsp; &nbsp;
