@@ -4,11 +4,38 @@
 <a href="https://2kamrul.gitlab.io/" target="_blank">Portfolio</a>  
  
 ## Things I code with
+
 ### DevOps
-<img  src="./icons/devops/aws.svg" alt="Aws" width="70" height="53"/> &nbsp; &nbsp; <img src="./icons/devops/digitalocean.svg" alt="DigitalOcean" width="45" height="45"/> &nbsp; &nbsp; <img src="./icons/devops/kubernetes.svg" alt="Kubernetes" width="45" height="45"/> &nbsp; &nbsp; <img src="./icons/devops/docker.svg" alt="Docker" width="45" height="45"/> &nbsp; &nbsp; <img src="./icons/devops/terraform.svg" alt="Terraform" width="45" height="45"/> &nbsp; &nbsp; <img src="./icons/devops/jenkins.svg" alt="Jenkins" width="45" height="45"/> &nbsp; &nbsp; <img src="./icons/devops/circleci.svg" alt="CircleCI" width="45" height="45"/> &nbsp; &nbsp; <img src="./icons/devops/github.svg" alt="GitHub" width="45" height="45"/> &nbsp; &nbsp; <img src="./icons/devops/gitlab.svg" alt="GitLab" width="45" height="45"/>  &nbsp; &nbsp; <img src="./icons/devops/argo-cd.svg" alt="ArgoCD" width="45" height="45"/> &nbsp; &nbsp; <img src="./icons/devops/grafana.svg" alt="Grafana" width="45" height="45"/> &nbsp; &nbsp; <img src="./icons/devops/prometheus.svg" alt="Prometheus" width="45" height="45"/> &nbsp; &nbsp; <img src="./icons/devops/nginx.svg" alt="Nginx" width="45" height="45"/> &nbsp; &nbsp; <img src="./icons/devops/apache.svg" alt="Apache" width="45" height="45"/>
+<img  src="./icons/devops/aws.svg" alt="Aws" width="70" height="53"/> &nbsp; &nbsp; 
+<img src="./icons/devops/digitalocean.svg" alt="DigitalOcean" width="45" height="45"/> &nbsp; &nbsp;
+<img src="./icons/devops/kubernetes.svg" alt="Kubernetes" width="45" height="45"/> &nbsp; &nbsp;
+<img src="./icons/devops/docker.svg" alt="Docker" width="45" height="45"/> &nbsp; &nbsp;
+<img src="./icons/devops/terraform.svg" alt="Terraform" width="45" height="45"/> &nbsp; &nbsp;
+<img src="./icons/devops/jenkins.svg" alt="Jenkins" width="45" height="45"/> &nbsp; &nbsp;
+<img src="./icons/devops/circleci.svg" alt="CircleCI" width="45" height="45"/> &nbsp; &nbsp;
+<img src="./icons/devops/github.svg" alt="GitHub" width="45" height="45"/> &nbsp; &nbsp;
+<img src="./icons/devops/gitlab.svg" alt="GitLab" width="45" height="45"/> &nbsp; &nbsp;
+<img src="./icons/devops/argo-cd.svg" alt="ArgoCD" width="45" height="45"/> &nbsp; &nbsp;
+<img src="./icons/devops/grafana.svg" alt="Grafana" width="45" height="45"/> &nbsp; &nbsp;
+<img src="./icons/devops/prometheus.svg" alt="Prometheus" width="45" height="45"/> &nbsp; &nbsp;
+<img src="./icons/devops/nginx.svg" alt="Nginx" width="45" height="45"/> &nbsp; &nbsp;
+<img src="./icons/devops/apache.svg" alt="Apache" width="45" height="45"/> &nbsp; &nbsp;
+
+&nbsp;
 
 ### Backend
-<img src="./icons/backend/typescript.svg" alt="Typescript" width="45" height="45"/> &nbsp; &nbsp;<img src="./icons/backend/nodejs_with_title.svg" alt="NodeJS" width="60" height="60"/> &nbsp; &nbsp;<img src="./icons/backend/nestjs-with-title.svg" alt="NestJS" width="60" height="60"/> &nbsp; &nbsp;<img  src="./icons/backend/expressjs_long.svg" alt="ExpressJS" width="60" height="60"/> &nbsp; &nbsp;<img  src="./icons/backend/typeorm-with-title.svg" alt="TypeORM" width="40" height="40"/> &nbsp; &nbsp;<img  src="./icons/backend/sequelize_with_title.svg" alt="Sequelize" width="60" height="60"/> &nbsp; &nbsp;<img  src="./icons/backend/sql_server_with_title.svg" alt="MSSQL" width="60" height="50"/> &nbsp; &nbsp;<img  src="./icons/backend/my_sql_transparent.svg" alt="MySql" width="60" height="60"/> &nbsp; &nbsp;<img  src="./icons/backend/oracle-db-with-title.svg" alt="OracleDB" width="60" height="60"/> &nbsp; &nbsp;<img  src="./icons/backend/mongodb_with_title.svg" alt="Mongodb" width="60" height="60"/> &nbsp; &nbsp;<img src="./icons/backend/firebase_with_title.svg" alt="Firebase" width="90" height="60"/> &nbsp; &nbsp;<img  src="./icons/backend/redis_with_title.svg" alt="Redis" width="40" height="40"/>
+<img src="./icons/backend/typescript.svg" alt="Typescript" width="45" height="45"/> &nbsp; &nbsp;
+<img src="./icons/backend/nodejs_with_title.svg" alt="NodeJS" width="60" height="60"/> &nbsp; &nbsp;
+<img src="./icons/backend/nestjs-with-title.svg" alt="NestJS" width="60" height="60"/> &nbsp; &nbsp;
+<img  src="./icons/backend/expressjs_long.svg" alt="ExpressJS" width="60" height="60"/> &nbsp; &nbsp;
+<img  src="./icons/backend/typeorm-with-title.svg" alt="TypeORM" width="40" height="40"/> &nbsp; &nbsp;
+<img  src="./icons/backend/sequelize_with_title.svg" alt="Sequelize" width="60" height="60"/> &nbsp; &nbsp;
+<img  src="./icons/backend/sql_server_with_title.svg" alt="MSSQL" width="60" height="50"/> &nbsp; &nbsp;
+<img  src="./icons/backend/my_sql_transparent.svg" alt="MySql" width="60" height="60"/> &nbsp; &nbsp;
+<img  src="./icons/backend/oracle-db-with-title.svg" alt="OracleDB" width="60" height="60"/> &nbsp; &nbsp;
+<img  src="./icons/backend/mongodb_with_title.svg" alt="Mongodb" width="60" height="60"/> &nbsp; &nbsp;
+<img src="./icons/backend/firebase_with_title.svg" alt="Firebase" width="90" height="60"/> &nbsp; &nbsp;
+<img  src="./icons/backend/redis_with_title.svg" alt="Redis" width="40" height="40"/> &nbsp; &nbsp;
 
 [//]: # (###### Frontend)
 
