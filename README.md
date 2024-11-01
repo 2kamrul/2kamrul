@@ -49,13 +49,11 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2kamrul&layout=compact&theme=react)](https://github.com/2kamrul/github-readme-stats)
+[//]: # ([![Top Languages]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=2kamrul&layout=compact&theme=react&#41;]&#40;https://github.com/2kamrul/github-readme-stats&#41;)
 
-[![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=2kamrul&hide_border=false&theme=react)](https://github.com/2kamrul/github-readme-stats)
+[![Status](https://github-readme-streak-stats.herokuapp.com/?user=2kamrul&hide_border=false&theme=react)](https://github.com/2kamrul/github-readme-stats)
 
-
-
-[![Kamruls's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=2kamrul&theme=react&custom_title=Contribution%20Graph)](https://git.io/praveenscience)
+[//]: # ([![Activity Graph]&#40;https://github-readme-activity-graph.cyclic.app/graph?username=2kamrul&theme=react&custom_title=Contribution%20Graph&#41;]&#40;https://git.io/praveenscience&#41;)
 
 
 ###### Where to find me
