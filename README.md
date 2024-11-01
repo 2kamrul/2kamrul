@@ -37,12 +37,15 @@ I'm Kamrul Islam, Backend Engineer and DevOps enthusiast
 <img  src="./icons/backend/expressjs_long.svg" alt="ExpressJS" width="60" height="60"/> &nbsp; &nbsp;
 <img  src="./icons/backend/typeorm-with-title.svg" alt="TypeORM" width="40" height="40"/> &nbsp; &nbsp;
 <img  src="./icons/backend/sequelize_with_title.svg" alt="Sequelize" width="60" height="60"/> &nbsp; &nbsp;
-<img  src="./icons/backend/sql_server_with_title.svg" alt="MSSQL" width="60" height="50"/> &nbsp; &nbsp;
-<img  src="./icons/backend/my_sql_transparent.svg" alt="MySql" width="60" height="60"/> &nbsp; &nbsp;
-<img  src="./icons/backend/oracle-db-with-title.svg" alt="OracleDB" width="60" height="60"/> &nbsp; &nbsp;
-<img  src="./icons/backend/mongodb_with_title.svg" alt="Mongodb" width="60" height="60"/> &nbsp; &nbsp;
-<img src="./icons/backend/firebase_with_title.svg" alt="Firebase" width="90" height="60"/> &nbsp; &nbsp;
-<img  src="./icons/backend/redis_with_title.svg" alt="Redis" width="40" height="40"/> &nbsp; &nbsp;
+
+### Database
+<img  src="icons/database/my_sql_transparent.svg" alt="MySql" width="60" height="60"/> &nbsp; &nbsp;
+<img  src="icons/database/postgresql.svg" alt="Postgres" width="45" height="40"/> &nbsp; &nbsp;
+<img  src="icons/database/oracle-db-with-title.svg" alt="OracleDB" width="60" height="60"/> &nbsp; &nbsp;
+<img  src="icons/database/redis_with_title.svg" alt="Redis" width="40" height="40"/> &nbsp; &nbsp;
+<img  src="icons/database/mongodb_with_title.svg" alt="Mongodb" width="60" height="60"/> &nbsp; &nbsp;
+<img  src="icons/database/sql_server_with_title.svg" alt="MSSQL" width="60" height="50"/> &nbsp; &nbsp;
+<img src="icons/database/firebase_with_title.svg" alt="Firebase" width="90" height="60"/> &nbsp; &nbsp;
 
 [//]: # (###### Frontend)
 
