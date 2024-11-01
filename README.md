@@ -2,7 +2,7 @@
 
 Welcome!
 
-I'm Kamrul Islam, Backend Engineer and DevOps enthusiast 
+I'm Kamrul Islam, Backend Engineer and DevOps enthusiast.
 
 [//]: # (from <img src="./icons/others/bd-flag-circular.svg" width="12" height="12" /> <b>Bangladesh.</b>)
 
